@@ -1,1 +1,1 @@
-alert("mare de deu2!");
+alert("it works!");
